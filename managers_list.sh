@@ -10,3 +10,6 @@ Martin
 Lydwin
 Phelan
 Soppo
+Tidi
+George
+Jomia
