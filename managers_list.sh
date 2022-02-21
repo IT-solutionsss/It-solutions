@@ -6,3 +6,7 @@ Thomas
 Valone
 Louis 
 Katty
+Martin
+Lydwin
+Phelan
+Soppo
