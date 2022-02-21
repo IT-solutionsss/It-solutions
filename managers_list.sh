@@ -12,5 +12,5 @@ Phelan
 Soppo
 Tidi
 George
-Jomia
+Jomiia
 class28
