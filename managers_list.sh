@@ -13,3 +13,7 @@ Soppo
 Tidi
 George
 Jomia
+pefok
+tema
+banyuga
+stella
